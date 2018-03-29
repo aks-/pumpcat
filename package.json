@@ -6,6 +6,19 @@
     "type": "git",
     "url": "http://github.com/aks-/pumpcat.git"
   },
+  "keywords": [
+    "stream",
+    "simple",
+    "util",
+    "utility",
+    "pipe",
+    "destroy",
+    "callback",
+    "buffer",
+    "buffers",
+    "stream",
+    "awesomesauce"
+  ],
   "main": "index.js",
   "scripts": {
     "test": "node test.js"
