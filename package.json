@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node test.js"
   },
   "author": "coderatlabs@gmail.com, suthar.ashok@outlook.com <Ashok>",
   "license": "MIT",
