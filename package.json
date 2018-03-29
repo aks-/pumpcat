@@ -1,7 +1,11 @@
 {
   "name": "pumpcat",
   "version": "1.0.0",
-  "description": "",
+  "description": "pipe streams together and concatenates strings or binary data and calls a callback with the result",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/aks-/pumpcat.git"
+  },
   "main": "index.js",
   "scripts": {
     "test": "node test.js"

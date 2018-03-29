@@ -1,6 +1,8 @@
 # pumpcat
 
-pumpcat is a small node module that combines pumpp and bl to collect the concatinated buffer.
+pumpcat pipes streams together and concatenates strings or binary data and calls a callback with the result
+
+pumpcat = pump + (concatination using bl)
 
 ```
 npm install pumpcat
