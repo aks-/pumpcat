@@ -8,6 +8,8 @@ pumpcat = pump + (concatination using bl)
 npm install pumpcat
 ```
 
+[![Build Status](https://travis-ci.org/aks-/pumpcat.svg?branch=master)](https://travis-ci.org/aks-/pumpcat)
+
 ## What problem does it solve?
 
 All the problems that pump solves with added functionality of concatinating the buffer for you and let you handle the error.
