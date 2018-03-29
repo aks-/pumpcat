@@ -1,0 +1,15 @@
+{
+  "name": "pumpcat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "coderatlabs@gmail.com, suthar.ashok@outlook.com <Ashok>",
+  "license": "MIT",
+  "dependencies": {
+    "bl": "^1.2.2",
+    "pump": "^3.0.0"
+  }
+}
