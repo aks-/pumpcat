@@ -10,6 +10,8 @@ npm install pumpcat
 
 [![Build Status](https://travis-ci.org/aks-/pumpcat.svg?branch=master)](https://travis-ci.org/aks-/pumpcat)
 
+![pumpcat](https://user-images.githubusercontent.com/8316625/38133735-1bb84112-342e-11e8-879a-1fb841433e07.png)
+
 ## What problem does it solve?
 
 All the problems that pump solves with added functionality of concatinating the buffer for you and let you handle the error.
